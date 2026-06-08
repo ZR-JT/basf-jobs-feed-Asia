@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-08T07:51:56Z",
+  "last_updated": "2026-06-08T10:36:32Z",
   "scope": "Asia",
-  "total_active": 276,
+  "total_active": 280,
   "countries": [
     "China",
     "Hong Kong",
@@ -18,6 +18,90 @@
     "Vietnam"
   ],
   "jobs": [
+    {
+      "job_id": "139468",
+      "title": "Assistant Research Scientist I",
+      "url": "https://basf.jobs/job-invite/139468/?locale=en_US",
+      "city": "Navi Mumbai - HO (Innovation Campus)",
+      "state": "Maharashtra",
+      "country": "India",
+      "company": "BASF Chemicals India Pvt. Ltd.",
+      "business_unit": "Asia Pacific",
+      "department": "APR R&D Crop Protection",
+      "job_field": "Research & Development",
+      "job_level": "Graduate",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-06-08T10:20:08Z",
+      "description": "Objectives of the position: Support to Physchem samples Analysis. Representative Main tasks: Handling of LCMS, UPLC HPLC LCMS (Waters Shimadzu): Ontime and Accurate LCMS analysis service support, solving queries for Discovery team. Managing (maintenance and troubleshooting of LCMS instrument.) EHS Task: Reporting of Near miss and Unsafe behavior as an observant while working in lab. Maintain zero lost time incidences by working safe. Working in the lab with all required PPEs and following safety guidelines Suggested Competencies: Analytical Chemistry Spectroscopy Organic Chemistry Calculations Ms Office Inorganic Chemistry Physical Chemistry Laboratory Techniques Data Analysis Quality Contro",
+      "recruiter": {
+        "name": "Anishka Naik",
+        "email": "anishka.naik@basf.com"
+      }
+    },
+    {
+      "job_id": "139174",
+      "title": "Full Stack Developer, Coatings",
+      "url": "https://basf.jobs/job-invite/139174/?locale=en_US",
+      "city": "Nanjing",
+      "state": "Unknown",
+      "country": "China",
+      "company": "BASF Coatings Technology(Shanghai) Co., Ltd.",
+      "business_unit": "Asia Pacific",
+      "department": "G-ECR/ODA",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-06-08T09:51:31Z",
+      "description": "About The Role We are seeking a highly skilled and motivated Full Stack Developer to join our dynamic team. As a Full Stack Developer, you will be responsible for designing, developing, and implementing software solutions that meet the needs of our clients. You will work with a cross-functional team to ensure the successful delivery of high-quality products How You Will Do It - Develop and maintain web applications using Angular 12+, .Net Core. - Collaborate with the team to define and implement innovative solutions for complex business requirements. - Design and implement software architecture and ensure that it aligns with the overall system architecture. - Write clean, scalable, and effic",
+      "recruiter": {
+        "name": "Hwee Min Tan",
+        "email": "hwee-min.tan@basf.com"
+      }
+    },
+    {
+      "job_id": "139176",
+      "title": "QA Automation Engineer",
+      "url": "https://basf.jobs/job-invite/139176/?locale=en_US",
+      "city": "Nanjing",
+      "state": "Unknown",
+      "country": "China",
+      "company": "BASF Coatings Technology(Shanghai) Co., Ltd.",
+      "business_unit": "Asia Pacific",
+      "department": "G-ECR/ODQ Global Product Quality and Operations",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-06-08T09:14:31Z",
+      "description": "About The Role We are seeking a highly skilled and motivated Automation Engineer to join our dynamic team. As an Automation Engineer, you design, develop, and maintain automated testing frameworks to ensure product quality and release stability. You collaborate with cross-functional teams to integrate automation into CI/CD pipelines, validate functionality across platforms, and deliver high-quality products to customers How You Will Do It - Design, develop, and execute automated test scripts using Cypress and Postman to validate application functionality and performance - Demonstrate experience in application testing, along with current working knowledge of modern tools and testing methodolo",
+      "recruiter": {
+        "name": "Hwee Min Tan",
+        "email": "hwee-min.tan@basf.com"
+      }
+    },
+    {
+      "job_id": "139386",
+      "title": "Intern, Application Tester",
+      "url": "https://basf.jobs/job-invite/139386/?locale=en_US",
+      "city": "Nanjing",
+      "state": "Unknown",
+      "country": "China",
+      "company": "BASF Coatings Technology(Shanghai) Co., Ltd.",
+      "business_unit": "Asia Pacific",
+      "department": "G-ECO/MD",
+      "job_field": "Digitalization",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "hybrid": false,
+      "date_posted": "2026-06-08T08:53:15Z",
+      "description": "About The Role Within G-ECO/MD team, you will be responsible for testing our digital applications used in coatings industry. Your role involves manual testing of new features alongside the DevOps team, ensuring readiness for release. You'll facilitate both DevOps team and Product Owners by identifying, reporting, and documenting bugs and generating release notes. Your commitment to quality will drive continuous improvement, making our application a benchmark for reliability and user satisfaction in the business. How You Will Do It Conduct thorough testing of digital applications to ensure functionality, usability, and reliability. Identify, document, and report bugs and issues to the develop",
+      "recruiter": {
+        "name": "Hwee Min Tan",
+        "email": "hwee-min.tan@basf.com"
+      }
+    },
     {
       "job_id": "139464",
       "title": "Assistant Manager, Technical Development",
@@ -5525,7 +5609,7 @@
     },
     {
       "job_id": "130757",
-      "title": "Credit Risk Management (Senior Analyst) - Japanese Speaker",
+      "title": "Credit Risk Management (Associate Analyst)",
       "url": "https://basf.jobs/job-invite/130757/?locale=en_US",
       "city": "Kuala Lumpur",
       "state": "Wilayah Persekutuan Kuala Lumpur",
