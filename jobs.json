@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-08T10:36:32Z",
+  "last_updated": "2026-06-08T16:09:21Z",
   "scope": "Asia",
-  "total_active": 280,
+  "total_active": 281,
   "countries": [
     "China",
     "Hong Kong",
@@ -18,6 +18,27 @@
     "Vietnam"
   ],
   "jobs": [
+    {
+      "job_id": "139489",
+      "title": "Assistant Research Scientist I",
+      "url": "https://basf.jobs/job-invite/139489/?locale=en_US",
+      "city": "Navi Mumbai - HO (Innovation Campus)",
+      "state": "Maharashtra",
+      "country": "India",
+      "company": "BASF Chemicals India Pvt. Ltd.",
+      "business_unit": "Asia Pacific",
+      "department": "APR R&D Crop Protection",
+      "job_field": "Research & Development",
+      "job_level": "Graduate",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-06-08T11:16:35Z",
+      "description": "Objectives of the position: Conduct Physchem samples Analysis – LogP, Thermodynamic water solubility, hydrolytic stability at 3 different pH, Photlytic stability and Photohydrolytic stability Representative Main tasks: Handling of UPLC, HPLC, Photochamber and pH meter Physchem LogP, Thermodynamic water solubility, hydrolytic stability at 3 different pH, Photlytic stability and Photohydrolytic stability EHS Task: Reporting of Near miss and Unsafe behavior as an observant while working in lab Maintain zero lost time incidences by working safe Working in the lab with all required PPEs and following safety guidelines Education Qualification: MSc chemistry Suggested Competencies: Analytical Chemi",
+      "recruiter": {
+        "name": "Anishka Naik",
+        "email": "anishka.naik@basf.com"
+      }
+    },
     {
       "job_id": "139468",
       "title": "Assistant Research Scientist I",
