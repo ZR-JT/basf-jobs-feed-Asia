@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-08T21:57:23Z",
+  "last_updated": "2026-06-09T04:10:32Z",
   "scope": "Asia",
-  "total_active": 281,
+  "total_active": 280,
   "countries": [
     "China",
     "Hong Kong",
@@ -18,6 +18,27 @@
     "Vietnam"
   ],
   "jobs": [
+    {
+      "job_id": "139180",
+      "title": "Assistant Manager, Sales - Engineering Plastic (Guangzhou)",
+      "url": "https://basf.jobs/job-invite/139180/?locale=en_US",
+      "city": "Guangzhou",
+      "state": "Panyu",
+      "country": "China",
+      "company": "BASF (China) Company Ltd.",
+      "business_unit": "Asia Pacific",
+      "department": "A-PMA/EW",
+      "job_field": "Marketing & Sales",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-06-09T02:39:26Z",
+      "description": "How You Will Do It Sales Development - Fully responsible and accountable for profitable business growth for assigned customers - Develops sales plans; secures and expedites orders. - Supervises and consolidates the accurate sales forecast. Strategic Tasks and Implementation - Identifies key accounts and develops key account profiles. - Implements the sales and marketing directions per agreed directions Product/Industry/Business Development - Scouts for new business opportunities in the respective sales areas / key accounts and develops a business plan. - Suggests product developments and requirements to Sales Manager or LBM and support its implementation. Customer Management - Conducts field",
+      "recruiter": {
+        "name": "Ying Yi Ser",
+        "email": "ying-yi.ser@basf.com"
+      }
+    },
     {
       "job_id": "139489",
       "title": "Assistant Research Scientist I",
@@ -61,48 +82,6 @@
       }
     },
     {
-      "job_id": "139174",
-      "title": "Full Stack Developer, Coatings",
-      "url": "https://basf.jobs/job-invite/139174/?locale=en_US",
-      "city": "Nanjing",
-      "state": "Unknown",
-      "country": "China",
-      "company": "BASF Coatings Technology(Shanghai) Co., Ltd.",
-      "business_unit": "Asia Pacific",
-      "department": "G-ECR/ODA",
-      "job_field": "Digitalization",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-06-08T09:51:31Z",
-      "description": "About The Role We are seeking a highly skilled and motivated Full Stack Developer to join our dynamic team. As a Full Stack Developer, you will be responsible for designing, developing, and implementing software solutions that meet the needs of our clients. You will work with a cross-functional team to ensure the successful delivery of high-quality products How You Will Do It - Develop and maintain web applications using Angular 12+, .Net Core. - Collaborate with the team to define and implement innovative solutions for complex business requirements. - Design and implement software architecture and ensure that it aligns with the overall system architecture. - Write clean, scalable, and effic",
-      "recruiter": {
-        "name": "Hwee Min Tan",
-        "email": "hwee-min.tan@basf.com"
-      }
-    },
-    {
-      "job_id": "139176",
-      "title": "QA Automation Engineer",
-      "url": "https://basf.jobs/job-invite/139176/?locale=en_US",
-      "city": "Nanjing",
-      "state": "Unknown",
-      "country": "China",
-      "company": "BASF Coatings Technology(Shanghai) Co., Ltd.",
-      "business_unit": "Asia Pacific",
-      "department": "G-ECR/ODQ Global Product Quality and Operations",
-      "job_field": "Digitalization",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-06-08T09:14:31Z",
-      "description": "About The Role We are seeking a highly skilled and motivated Automation Engineer to join our dynamic team. As an Automation Engineer, you design, develop, and maintain automated testing frameworks to ensure product quality and release stability. You collaborate with cross-functional teams to integrate automation into CI/CD pipelines, validate functionality across platforms, and deliver high-quality products to customers How You Will Do It - Design, develop, and execute automated test scripts using Cypress and Postman to validate application functionality and performance - Demonstrate experience in application testing, along with current working knowledge of modern tools and testing methodolo",
-      "recruiter": {
-        "name": "Hwee Min Tan",
-        "email": "hwee-min.tan@basf.com"
-      }
-    },
-    {
       "job_id": "139386",
       "title": "Intern, Application Tester",
       "url": "https://basf.jobs/job-invite/139386/?locale=en_US",
@@ -138,7 +117,7 @@
       "job_type": "Permanent",
       "hybrid": false,
       "date_posted": "2026-06-08T06:36:01Z",
-      "description": "How You Will Do It Market Development • Supports in running projects efficiently and gets the active projects be commercialized. • Advocates in country and regional technical meetings. • Promotes and maintains Market Development through frequent updates on market development activities, and application technologies. • Tracks the competitive technology in the market. Initiates sample/performance and ensures broad technical knowledge of competition, including competitive literature. • Working closely with key strategy accounts and engaging with Customers and Strategic Key Accounts identifying material needs leading to material development through ‘PHASEGATE’ or ‘TOPIC’ closely with Country TD,",
+      "description": "Objectives of the Position • Provide Technical Advisory at respective region through the area of part design, processing, tooling and material in order to achieve manufacturing excellent part performance quality at customers in our Engineering Plastics business. • To optimize product/material processing under trouble shooting at customer location to target excellent part quality. • According to the agreed strategies, policies and practices, provides input and participates in business development and planning, product / processing development and modification, customer intimacy to support the implementation of sales strategies and policies in China at defined sales goal. • Support Application",
       "recruiter": {
         "name": "Ying Yi Ser",
         "email": "ying-yi.ser@basf.com"
@@ -715,7 +694,7 @@
     },
     {
       "job_id": "138645",
-      "title": "Production Operator 1",
+      "title": "DCS Operator",
       "url": "https://basf.jobs/job-invite/138645/?locale=en_US",
       "city": "Merak",
       "state": "Banten",
